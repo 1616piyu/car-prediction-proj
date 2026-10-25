@@ -10,6 +10,11 @@ An end-to-end machine-learning project that estimates used-car selling prices an
 - **Model Evaluation:** Review MAE, RMSE, R², prediction-error distribution, largest errors, and errors across price ranges.
 - **Feature Engineering:** Supports the feature set recorded in the saved model bundle, including car age, kilometers per year, and brand for the engineered model.
 - **Data Validation:** Handles common invalid-input, missing-file, and empty-data cases.
+- ## 🚀 Live Demo
+
+**Try the deployed application:** [Car Price Prediction & Analytics](https://car-prediction-proj-ffgmxxtkkgimemhafyy8in.streamlit.app/)
+
+Explore interactive car price predictions, historical data analytics, and model evaluation metrics directly in your browser.
 
 ## Tech Stack
 
